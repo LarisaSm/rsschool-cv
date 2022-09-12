@@ -19,3 +19,8 @@ I learn Front-End Development in RSSchool!
 - Git
 - Figma
 
+# Languages
+
+Russian: native speaker.
+
+English: A2.
